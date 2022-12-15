@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @tomlinm6
-- Deploy a test benchmark to a cloud service.
+- 👋 Hi
+- Deploy an app to a cloud service.
