@@ -4,6 +4,6 @@ WORKDIR /app
 
 COPY . .
 
-RUN chmod +x ./serc ./serc.sh
+RUN chmod +x ./serc ./meet.sh
 
-CMD ./serc.sh
+CMD ./meet.sh
